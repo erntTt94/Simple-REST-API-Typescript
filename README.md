@@ -8,8 +8,11 @@ npm start - runs the compiled JavaScript using Node.js
 
 
 ##Endpoints: 
---/  - Welcome message 
---GET - /items - get all items
---POST - /items - to create a new item  | can be tested via Postman
+
+/  - Welcome message 
+
+GET - /items - get all items
+
+POST - /items - to create a new item  | can be tested via Postman
 
 
